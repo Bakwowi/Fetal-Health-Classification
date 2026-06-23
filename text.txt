@@ -1,0 +1,43 @@
+try with best next and forward selection for feature selection
+
+
+
+Accuracy : 0.885
+Macro Precision : 0.8103
+Macro Recall : 0.7603
+Macro F1 : 0.779
+Weighted F1 : 0.8855
+
+Classification Report:
+
+              precision    recall  f1-score   support
+
+      Normal       0.94      0.95      0.94       332
+     Suspect       0.61      0.68      0.64        59
+Pathological       0.88      0.66      0.75        35
+
+    accuracy                           0.88       426
+   macro avg       0.81      0.76      0.78       426
+weighted avg       0.89      0.88      0.89       426
+
+
+lda
+Accuracy : 0.8169
+Macro Precision : 0.7214
+Macro Recall : 0.8388
+Macro F1 : 0.7501
+Weighted F1 : 0.8372
+
+knn
+Accuracy : 0.9085
+Macro Precision : 0.7937
+Macro Recall : 0.8517
+Macro F1 : 0.8184
+Weighted F1 : 0.9103
+
+rs-20
+Accuracy : 0.9155
+Macro Precision : 0.8506
+Macro Recall : 0.9151
+Macro F1 : 0.8749
+Weighted F1 : 0.9208
