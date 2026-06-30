@@ -1,0 +1,2 @@
+Model,Best Parameters,CV Macro-F1,Test Accuracy,Test Balanced Accuracy,Test Macro-F1,Test Weighted-F1
+Logistic Regression,"{'classifier__C': 0.1, 'classifier__class_weight': None, 'classifier__solver': 'lbfgs'}",0.789055348477852,0.8936170212765957,0.7537990744887297,0.7920343137254902,0.8870158879154499
